@@ -31,5 +31,6 @@ To deploy to [http://preview.zooniverse.org/folgerdemo/](http://preview.zooniver
 - [Semantic Versioning](http://semver.org)
 - [Keep A Changelog](http://keepachangelog.com/)
 
-## Related links
-TBA
+## Suggest new features
+[![Feature Requests](http://feathub.com/simoneduca/shakespeares_world?format=svg)](http://feathub.com/simoneduca/shakespeares_world)
+
